@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.bbea0f87.chunk.css",
+    "main.js": "/react-app/static/js/main.017757bd.chunk.js",
+    "main.js.map": "/react-app/static/js/main.017757bd.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.037dc047.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.037dc047.js.map",
+    "static/css/2.debc53f4.chunk.css": "/react-app/static/css/2.debc53f4.chunk.css",
+    "static/js/2.5c54fa9b.chunk.js": "/react-app/static/js/2.5c54fa9b.chunk.js",
+    "static/js/2.5c54fa9b.chunk.js.map": "/react-app/static/js/2.5c54fa9b.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.172262b02bdd0be8dff3fdfa8ac608c3.js": "/react-app/precache-manifest.172262b02bdd0be8dff3fdfa8ac608c3.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/2.debc53f4.chunk.css.map": "/react-app/static/css/2.debc53f4.chunk.css.map",
+    "static/css/main.bbea0f87.chunk.css.map": "/react-app/static/css/main.bbea0f87.chunk.css.map",
+    "static/js/2.5c54fa9b.chunk.js.LICENSE": "/react-app/static/js/2.5c54fa9b.chunk.js.LICENSE",
+    "static/media/style.css": "/react-app/static/media/product-bg.20b4568f.jpg",
+    "static/media/style1.css": "/react-app/static/media/video-bg.619fed81.png",
+    "static/media/font-awesome.css": "/react-app/static/media/fontawesome-webfont.a247f435.eot",
+    "static/media/bootstrap.min.css": "/react-app/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/icon-fonts.css": "/react-app/static/media/untitled-font-4.b5ee7621.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.037dc047.js",
+    "static/css/2.debc53f4.chunk.css",
+    "static/js/2.5c54fa9b.chunk.js",
+    "static/css/main.bbea0f87.chunk.css",
+    "static/js/main.017757bd.chunk.js"
+  ]
+}
